@@ -4,5 +4,12 @@ A soft, modern, aesthetic, arch-based Linux distro for ARM64 devices, built in f
 # Interactive Install
 1. Clone into repository using:
 ```git clone https://github.com/satomiify/CrescentLinux```
+
 3. cd into dir:
-```cd CrescentLinux```
+First, ensure you're in your home directory by running ```cd && pwd```
+```cd CrescentLinux``` (or skip step 4 by using cd into ```/CrescentLinux/sh```
+
+5. cd into sh folder
+```cd sh```
+
+6. 
